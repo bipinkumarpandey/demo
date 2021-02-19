@@ -33,7 +33,7 @@ function Navbar() {
                                         </div>
                                         <div className="clearfix"></div>
                                         <ul className="dl-menu">
-                                            <li className="parent"><Link to="/home">Home</Link></li>
+                                            <li className="parent"><Link to="/">Home</Link></li>
                                             <li className="parent"><Link to="/about">Movies</Link></li>
                                             <li className="parent"><Link to="/about">Videos</Link></li>
                                             <li className="parent"><Link to="kids.html">Kids</Link></li>
